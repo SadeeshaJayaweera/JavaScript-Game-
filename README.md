@@ -1,6 +1,6 @@
 # Dice Game in JavaScript 🎲
 
-![Dice Game Preview]
+[Dice Game Preview]
 
 <img src='dice.png'>
 
